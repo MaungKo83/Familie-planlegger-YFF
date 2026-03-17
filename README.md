@@ -1,6 +1,3 @@
-# Familie-planlegger-YFF
-Familie planlegger YFF prosjekt
-👉 https://maungko83.github.io/Familie-planlegger-Y
 📂 Mappestruktur
 Familie-planlegger-YFF/
 │
