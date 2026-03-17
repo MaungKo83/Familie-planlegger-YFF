@@ -1,4 +1,4 @@
-# 🌐Læringsportal for frontend-utviklere
+# 🌐Læring for frontend-utviklere
 
 Velkommen til **Familie‑planlegger‑YFF** – et læringsprosjekt laget for å vise grunnleggende ferdigheter innen **HTML, CSS og JavaScript** i praksis.  
 Et familieplanleggingsverktøy utviklet som et YFF-prosjekt.
