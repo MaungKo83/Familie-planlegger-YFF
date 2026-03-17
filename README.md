@@ -12,14 +12,31 @@ Nettsiden hjelper familier med å organisere rutiner, handlelister, måltider, m
 
 ## 📚 Innhold
 
-Portalen inneholder introduksjoner til følgende temaer:
+⭐ Funksjoner
+✔️ Dashboard (index.html)
 
-- **HTML** – Struktur og semantikk i webutvikling  
-- **CSS** – Styling, layout og design  
-- **JavaScript** – Interaktivitet og dynamikk  
-- **Om meg** – Kort presentasjon
+Familierutiner
+Handleliste
+Måltidsplan
+Notater
+Medisinrutiner
+Ukekalender
+Fødelsdager
+Hurtig avtale‑legger
+Dagens sitat
 
-Hver side ligger i `pages/`‑mappen og kan åpnes fra menyen.
+✔️ Tema-side (tema.html)
+
+Lys/mørk modus
+Enkel navigasjon
+Dynamiske kort med JavaScript
+Utskriftsvalg
+
+✔️ Utskrifts-side (print.html)
+
+Velg hvilke deler du vil skrive ut
+Ny side per seksjon (valgfritt)
+Ren og strukturert utskriftslayout
 
 ---
 
