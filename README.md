@@ -40,37 +40,8 @@ Ren og strukturert utskriftslayout
 
 ---
 
-## 📁 Mappestruktur
+<img width="961" height="663" alt="image" src="https://github.com/user-attachments/assets/9a5c08c2-788f-4525-afe9-313d416a6c02" />
 
-📂 Mappestruktur
-Familie-planlegger-YFF/
-│
-├── Css/
-│   ├── index.css
-│   ├── print.css
-│   └── tema.css
-│
-├── images/
-│   ├── ficon.png
-│   ├── home.png
-│   ├── family.png
-│   ├── login.png
-│   └── ...
-│
-├── js/
-│   ├── index.js
-│   ├── tema.js
-│   └── print.js
-│
-├── pages/
-│   ├── tema.html
-│   ├── print.html
-│   ├── om.html
-│   ├── admin.html
-│   └── Auth.html
-│
-├── index.html
-└── README.md
 
 © Opphavsrett
 © 2026 Maung Ko
