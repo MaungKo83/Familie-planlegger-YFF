@@ -1,3 +1,30 @@
+# 🌐Læringsportal for frontend-utviklere
+
+Velkommen til **Familie‑planlegger‑YFF** – et læringsprosjekt laget for å vise grunnleggende ferdigheter innen **HTML, CSS og JavaScript** i praksis.  
+Et familieplanleggingsverktøy utviklet som et YFF-prosjekt.
+Nettsiden hjelper familier med å organisere rutiner, handlelister, måltider, medisiner, kalender, notater, fødselsdager og mer – enkelt og oversiktlig.
+
+ 
+🌐 Live demo
+👉 https://maungko83.github.io/Familie-planlegger-YFF/
+
+---
+
+## 📚 Innhold
+
+Portalen inneholder introduksjoner til følgende temaer:
+
+- **HTML** – Struktur og semantikk i webutvikling  
+- **CSS** – Styling, layout og design  
+- **JavaScript** – Interaktivitet og dynamikk  
+- **Om meg** – Kort presentasjon
+
+Hver side ligger i `pages/`‑mappen og kan åpnes fra menyen.
+
+---
+
+## 📁 Mappestruktur
+
 📂 Mappestruktur
 Familie-planlegger-YFF/
 │
@@ -27,3 +54,7 @@ Familie-planlegger-YFF/
 │
 ├── index.html
 └── README.md
+
+© Opphavsrett
+© 2026 Maung Ko
+Laget for læring og demonstrasjon av webutvikling.
