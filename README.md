@@ -1,8 +1,17 @@
 # 🌐Læring for frontend-utviklere
 
-Velkommen til **Familie‑planlegger‑YFF** – et læringsprosjekt laget for å vise grunnleggende ferdigheter innen **HTML, CSS og JavaScript** i praksis.  
-Et familieplanleggingsverktøy utviklet som et YFF-prosjekt.
-Nettsiden hjelper familier med å organisere rutiner, handlelister, måltider, medisiner, kalender, notater, fødselsdager og mer – enkelt og oversiktlig.
+Velkommen til **Familie‑planlegger‑YFF**  
+🏠 Hjem:
+Hverdagen kan være travel med jobb, skole og avtaler.
+Denne nettsiden hjelper familier med å holde oversikt over barnas skoleaktiviteter og legetimer, slik at ingenting blir glemt.
+
+ℹ️ Om oss:
+Vi har laget denne nettsiden for travle familier.
+Målet vårt er å gjøre hverdagen enklere ved å samle skoleaktiviteter, avtaler og rutiner på ett sted.
+
+📄 Prosjektrapport:
+Formålet med dette prosjektet er å lage en nettside som hjelper familier med å organisere skoleaktiviteter og avtaler, slik at viktige hendelser ikke blir glemt.
+
 
  
 🌐 Live demo
